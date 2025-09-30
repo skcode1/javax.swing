@@ -64,5 +64,6 @@ Simulates a basic ATM system:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/skcode1/SKETCH.git
-   cd SKETCH
+   cd javax.swing
+
 
